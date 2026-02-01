@@ -1,6 +1,8 @@
 # keyformatter
 Format RSA keys (and other PEM-formatted keys)
 
+Note: the private key in the following example is a temporary key for illustration purposes only.
+
 ```
 [kpd@arch ~/repos/keyformatter]$ ./keyformatter.py
 Paste your key (press Ctrl+D when done):
